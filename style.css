@@ -19,7 +19,7 @@ header{
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(rgb(118, 225, 237), rgb(147, 154, 255));
+    background-image: linear-gradient(rgb(95, 237, 253), rgb(147, 154, 255));
     display: flex;
 }
 .texto-escola|{font-size: 20px;}
