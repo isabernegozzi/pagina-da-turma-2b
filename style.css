@@ -1,7 +1,23 @@
+*{margin: 0;
+padding: 0;}
+
+
 header{
-    background-color: rgb(78, 9, 143);
-    color: #ffffff;
+    background-color: aqua;
+    color: #020000;
     display: flex;
     justify-content: space-around;
-    padding: 24px;
+    padding: 24px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 20px;
+    padding: 10px 0;
+    font-size: 24px ;
+}
+.imagem-escola{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(rgb(118, 225, 237), rgb(147, 154, 255));
 }
